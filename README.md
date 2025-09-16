@@ -110,5 +110,4 @@ This project is released under the Apache 2.0 License.
 
 ✨ Built with Qiskit, by Guppy Quantum Projects 🐟
 
-yaml
-Copy code
+
